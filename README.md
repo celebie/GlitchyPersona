@@ -16,6 +16,9 @@ _Disclaimer:_ The standpoint or believes of the people portrayed in these works 
 ![glitchyBay screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyBay/screenshots/screenshot-1.png)  
 
 ##glitchySnowden
-![glitchySnowden](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySnowden/screenshots/screenshot-1.png)  
+![glitchySnowden screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySnowden/screenshots/screenshot-1.png)  
+
+##glitchySwartz
+![glitchySwartz screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySwartz/screenshots/screenshot-1.png)
 
 Images used are either under the public domain or under a Create Commons Attribution 2.0 Generic License.
