@@ -12,13 +12,20 @@ _Disclaimer:_ The standpoint or believes of the people portrayed in these works 
 ![Anonymous](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAnonymous/data/image.jpg)
 
 ###GlitchyAssange
-![glitchyAssange screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAssange/screenshots/screenshot-1.png)
+![glitchyAssange screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAssange/screenshots/screenshot-1.png)   
+###original image
+![Assange](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAssange/data/image.jpg)
+
+
 
 ##glitchyBay
-![glitchyBay screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyBay/screenshots/screenshot-1.png)  
+![glitchyBay screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyBay/screenshots/screenshot-1.png)   
+###original image
+![Bay](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyBay/data/image.jpg)
 
 ##glitchySnowden
-![glitchySnowden screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySnowden/screenshots/screenshot-1.png)  
+![glitchySnowden screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySnowden/screenshots/screenshot-1.png)   
+
 
 ##glitchySwartz
 ![glitchySwartz screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySwartz/screenshots/screenshot-1.png)
