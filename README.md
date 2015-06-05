@@ -7,6 +7,9 @@ _Disclaimer:_ The standpoint or believes of the people portrayed in these works 
 
 ##screenshots
 ###GlitchyAnonymous
-![glitchyAnonymous screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAnonymous/screenshots/screenshot-1.png)
+![glitchyAnonymous screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAnonymous/screenshots/screenshot-1.png)  
+
+###GlitchyAssange
+![glitchyAssange screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAssange/screenshots/screenshot-1.png)
 
 Images used are either under the public domain or under a Create Commons Attribution 2.0 Generic License.
