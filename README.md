@@ -16,8 +16,6 @@ _Disclaimer:_ The standpoint or believes of the people portrayed in these works 
 ###original image
 ![Assange](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAssange/data/image.jpg)
 
-
-
 ##glitchyBay
 ![glitchyBay screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyBay/screenshots/screenshot-1.png)   
 ###original image
@@ -25,9 +23,12 @@ _Disclaimer:_ The standpoint or believes of the people portrayed in these works 
 
 ##glitchySnowden
 ![glitchySnowden screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySnowden/screenshots/screenshot-1.png)   
-
+###original image
+![Snowden](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySnowden/data/image.jpg)
 
 ##glitchySwartz
-![glitchySwartz screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySwartz/screenshots/screenshot-1.png)
+![glitchySwartz screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySwartz/screenshots/screenshot-1.png)   
+###original image
+![Swartz](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchySwartz/data/image.jpg)
 
 Images used are either under the public domain or under a Create Commons Attribution 2.0 Generic License.
