@@ -8,6 +8,8 @@ _Disclaimer:_ The standpoint or believes of the people portrayed in these works 
 ##screenshots
 ###GlitchyAnonymous
 ![glitchyAnonymous screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAnonymous/screenshots/screenshot-1.png)  
+####original image
+![Anonymous](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAnonymous/data/image.jpg)
 
 ###GlitchyAssange
 ![glitchyAssange screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAssange/screenshots/screenshot-1.png)
