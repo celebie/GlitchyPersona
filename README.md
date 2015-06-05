@@ -5,4 +5,8 @@ __Description:__ A glitch in informatics is usually defined as a short-lived fau
 
 _Disclaimer:_ The standpoint or believes of the people portrayed in these works of art are independent of mine.
 
+##screenshots
+###GlitchyAnonymous
+![glitchyAnonymous screenshot](https://raw.githubusercontent.com/alejandrogarciasalas/GlitchyPersona/master/glitchyAnonymous/screenshots/screenshot-1.png)
+
 Images used are either under the public domain or under a Create Commons Attribution 2.0 Generic License.
